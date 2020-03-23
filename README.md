@@ -1,2 +1,2 @@
 # spring-demoone
-Spring Practice
+Basic Spring Structure
